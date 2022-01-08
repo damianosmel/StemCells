@@ -1,0 +1,7 @@
+#Don't track contents of
+
+###
+# Compiled source
+###
+*.RData
+*.Rhistory

@@ -1,0 +1,10 @@
+ase list for  laml_tcga_pan_can_atlas_2018 :> mycaselist = getCaseLists(mycgds,mycancerstudy)
+> print(mycaselist)
+                                  case_list_id                             case_list_name                                                   case_list_description cancer_study_id
+1   laml_tcga_pan_can_atlas_2018_3way_complete                        All Complete Tumors All tumor samples that have mRNA, CNA and sequencing data (165 samples)            1470
+2             laml_tcga_pan_can_atlas_2018_all                                 All Tumors                                         All tumor samples (200 samples)            1470
+3       laml_tcga_pan_can_atlas_2018_sequenced                           Sequenced Tumors                          All (Next-Gen) sequenced samples (200 samples)            1470
+4             laml_tcga_pan_can_atlas_2018_cna                Tumor Samples with CNA data                                  All tumors with CNA data (191 samples)            1470
+5         laml_tcga_pan_can_atlas_2018_log2CNA        Tumor Samples with log2 copy-number                     All tumors with log2 copy-number data (191 samples)            1470
+6 laml_tcga_pan_can_atlas_2018_rna_seq_v2_mrna  Tumor Samples with mRNA data (RNA Seq V2)                     All samples with mRNA expression data (173 samples)            1470
+7          laml_tcga_pan_can_atlas_2018_cnaseq Tumor Samples with sequencing and CNA data       All tumor samples that have CNA and sequencing data (190 samples)            1470

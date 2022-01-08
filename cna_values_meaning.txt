@@ -1,0 +1,2 @@
+From study: all_phase2_target_2018_pub
+Putative copy-number calls on 782 cases determined using GISTIC 2.0. Values: -2 = homozygous deletion; -1 = hemizygous deletion; 0 = neutral / no change; 1 = gain; 2 = high level amplification.
